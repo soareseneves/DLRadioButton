@@ -5,7 +5,7 @@ let package = Package(
     name: "DLRadioButton",
     defaultLocalization: "en",
     platforms: [
-        .iOS("6.0")
+        .iOS("9.0")
     ],
     products: [
         .library(name: "DLRadioButton", targets: ["DLRadioButton"])
